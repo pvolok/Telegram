@@ -493,6 +493,8 @@
     <string name="LeaveChannel">Leave Channel</string>
     <string name="LeaveChannelMenu">Leave channel</string>
     <string name="ChannelSettings">Settings</string>
+    <string name="Join">Join</string>
+    <string name="Leave">Leave</string>
     <string name="ChannelJoin">JOIN</string>
     <string name="ChannelJoinRequest">APPLY TO JOIN CHANNEL</string>
     <string name="ChannelJoinRequestSent">JOIN REQUEST SENT</string>
@@ -800,6 +802,7 @@
     <string name="DiscussionUnlinkGroupAlert">Are you sure you want to unlink **%1$s** from this group?</string>
     <string name="DiscussionUnlinkChannelAlert">Are you sure you want to unlink **%1$s** from this channel?</string>
     <string name="DiscussChannel">channel</string>
+    <string name="Discuss">Discuss</string>
     <string name="Slowmode">Slow Mode</string>
     <string name="SlowmodeOff">Off</string>
     <string name="SlowmodeSeconds">%1$ds</string>
